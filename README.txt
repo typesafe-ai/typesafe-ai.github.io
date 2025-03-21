@@ -1,3 +1,5 @@
+
+
 Mission: Automate the Economy
 
 The future of AI should be transformative—not incremental. Today, leading labs like OpenAI and Anthropic focus on LLMs optimized for human assistance. Yet, instead of unleashing a sci-fi vision of commoditized intelligence and economic revolution, we've settled for copilots and marginal productivity gains.
